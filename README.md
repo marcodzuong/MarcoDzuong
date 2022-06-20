@@ -18,6 +18,8 @@ Technology that I have touched.
   - Golang
   
   - PHP
+ 
+  - C#
   
 ## Frameworks and others
   - Firebase
