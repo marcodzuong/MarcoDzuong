@@ -9,10 +9,6 @@ Technology that I have touched.
   
   - JavaScript
   
-  - Ruby
-  
-  - Python
-  
   - C/C++
   
   - Golang
@@ -32,11 +28,7 @@ Technology that I have touched.
   
   - Express
   
-  - Rails
-  
   - Flask
-  
-  - Django
   
   - Laravel
   
